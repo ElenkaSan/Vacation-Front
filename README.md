@@ -6,7 +6,7 @@ You can conveniently save your results along with any notes you've made in your 
 This website allows users to create an account and save the result after that with create a list of their Packing List and CountDown trip/flight/deadlines/evens and etc. 
 
 ## App Information
-## Back-end
+## press to check [Back-end](https://github.com/ElenkaSan/Vacation-Back)
 
 cd into the "backend" directory, install required packages, create and seed database, and start the server. (Make sure that you have postgreSQL installed)
   ```sh
