@@ -126,6 +126,14 @@ The app's functionality includes:
 ### Hosting
 Heroku
 
+<img width="1440" alt="11" src="https://user-images.githubusercontent.com/75818489/201422053-ce537eb7-c664-4bb8-8922-1aa928abb70c.png">
+
+<img width="1440" alt="111" src="https://user-images.githubusercontent.com/75818489/201422070-2dcc5bb7-04c1-424c-99e8-ad60537b37ad.png">
+
+<img width="1440" alt="Screenshot 2022-11-11 at 2 41 11 PM" src="https://user-images.githubusercontent.com/75818489/201422083-0dcd0f88-9797-4f42-8509-a9c10b46bc52.png">
+
+<img width="1440" alt="Screenshot 2022-11-11 at 2 42 37 PM" src="https://user-images.githubusercontent.com/75818489/201422090-d871c9d7-a1b9-4e3e-bed2-48b0bdced3c7.png">
+
 ### Future-Features
   - The travel time feature:
     - Save favorite flight / hotel results into thier User Account and Trip Page after signup
