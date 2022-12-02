@@ -120,7 +120,7 @@ The app's functionality includes:
 
 ### Technology Stack
 - Front-End: HTML5 | CSS3 | JavaScript | React | React Bootstrap | Redux | RTL | JSON Schema | JSON Web Token
-- Back-End: Node.js | Express.js | SuperTest | JWT Authentication | Bcrypt | PostgreSQL | Axios | RESTful API 
+- Back-End: Node.js | Express.js | SuperTest | JWT Authentication | Bcrypt | PostgreSQL | Axios | RESTful APIs 
 
 ### Hosting
 Heroku
@@ -135,7 +135,7 @@ Heroku
 
 ### Future-Features
   - The travel time feature:
-    - Save favorite flight / hotel results into thier User Account and Trip Page after signup
+    - Save favorite flight / hotel with create date results into thier User Account and Trip Page after signup
     - Automatically calculate the flights and hotel date to count down in account, analyze hotel and flight costs and create trip list
     - Book flight and hotel
     - Car search, save and book
